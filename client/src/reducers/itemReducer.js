@@ -1,6 +1,5 @@
 // a reducer is where our actual state is going to go
 // CHANGES THE FRONT END
-import uuid from "uuid";
 import {
   GET_ITEMS,
   ADD_ITEM,
